@@ -33,6 +33,7 @@ Shoe 👠 <br>
 Cup ☕<br>
 Hockey stick 🏑 <br>
 
-A preview of the application is as follows: 
+A preview of the application is as follows:
+
 ![](quickdrawgif.gif)
 
